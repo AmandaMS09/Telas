@@ -1,3 +1,7 @@
+body{
+    position: relative;
+}
+
 form{
     width: 35%;
 }
