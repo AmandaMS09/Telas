@@ -1,9 +1,11 @@
 body{
     position: relative;
+    max-height: 100vh;
 }
 
 form{
     width: 35%;
+    overflow-y: auto;
 }
 
 input, input::placeholder, input::selection, input:focus{
